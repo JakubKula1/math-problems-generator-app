@@ -4,7 +4,7 @@ This project is a web application that serves as a managing tool for math proble
 
 ## Functionalities
 ### Administrator
-- Upload of math generators (.wl file)
+- Upload math generators (.wl file)
 ### User
 - Math category and sub-category selection
 - Generate a unique math problem
